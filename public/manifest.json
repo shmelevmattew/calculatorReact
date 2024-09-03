@@ -1,6 +1,6 @@
 {
-  "short_name": "Calculator App",
-  "name": "Calculator App by Madza",
+  "short_name": "Лаба калькулятор на React",
+  "name": "Лаба калькулятор на React",
   "icons": [
     {
       "src": "favicon.png",
